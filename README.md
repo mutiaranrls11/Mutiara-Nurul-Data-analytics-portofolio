@@ -1,7 +1,7 @@
 # Mutiara-Nurul-Data-analytics-portofolio
 Hi! My name is Mutiara Nurul Sakinah. Here is my Portfolio as Data Analyst, please kindly check!
 
-**SQL Skill sets:**
+## SQL Skill sets:
 
 - Standard Query Syntax;
 - SQL Aggregate Functions;
@@ -20,7 +20,7 @@ Code Example :
 
 [Deck Insight](https://docs.google.com/presentation/d/1vx6K02_spbqo_4qdz_2UOjwa0X2NXR8V6_fENkqGji0/edit#slide=id.g184d659b514_0_62)
 
-**Python Skill sets**
+## Python Skill sets
 
 - Removing irrelevant values
 - Handling missing data
@@ -38,8 +38,11 @@ Code example:
 [Deck insight](https://docs.google.com/presentation/d/1gM-Z5lA388LxrYXWsaD4H1sn-xTqH0kgDZk6WpUuqzA/edit#slide=id.p)
 
 
-**Dataviz Looker**
+## Dataviz Looker
 [AirBnB Dashboard](https://datastudio.google.com/reporting/23f4e5ae-5cca-4665-b5fd-8426e33fba7b)
 
-**Dataviz Tableau**
+## Dataviz Tableau
 [AirBnB Dashboard](https://public.tableau.com/views/AirBnB_Dashboard_MutiaraNuru/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+## Project Based Analytics
+[Customer Churn in Telecom Company](https://drive.google.com/file/d/16u3JRhQ9ZeCj9QZZ023eoOjUFe5w8qgY/view?usp=sharing)
